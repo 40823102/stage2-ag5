@@ -183,7 +183,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818165438.1">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 
-    &lt;title&gt;reveal.js – The HTML Presentation Framework&lt;/title&gt;
+    &lt;title&gt;2021-協同產品設計實習-stage2-ag5&lt;/title&gt;
 
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -208,12 +208,17 @@ vertical: body pane on the botton</t>
     @others
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-    &lt;a href="https://revealjs.com"&gt;
-        &lt;img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
+    &lt;a href="https://github.com/40823102/stage2-ag5"&gt;stage2-ag5 repo&lt;/a&gt;      &lt;a href="https://40823102.github.io/stage2-ag5/content/index.html"&gt;stage2-ag5 site&lt;/a&gt;&lt;/p&gt;
+        
     &lt;/a&gt;
     &lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
     &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="http://hakim.se"&gt;Hakim El Hattab&lt;/a&gt; and &lt;a href="https://github.com/hakimel/reveal.js/graphs/contributors"&gt;contributors&lt;/a&gt;&lt;/small&gt;
+        &lt;a href="https://40823106.github.io/stage2-ag5/content/index.html"&gt;repo site
+                    專題題目:排球扣球練習器
+                    組員: &lt;a href="https://40823102.github.io/cd2021/content/index.html"&gt;40823102劉怡萱&lt;/a&gt;&lt;/p&gt;
+                             &lt;a href="https://40823106.github.io/cd2021/content/index.html"&gt;40823106廖苡雯&lt;/a&gt;&lt;/p&gt;
+                             &lt;a href="https://40823135.github.io/cd2021/content/index.html"&gt;40823135林澤叡&lt;/a&gt;&lt;/p&gt;
+                             &lt;a href="https://40823121.github.io/cd2021/content/index.html"&gt;40823121粘晁偉&lt;/a&gt;&lt;/p&gt;
     &lt;/p&gt;
 &lt;/section&gt;
 
