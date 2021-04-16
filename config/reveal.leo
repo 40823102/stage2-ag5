@@ -20,26 +20,29 @@
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
 <v t="leo.20200818170535.1"><vh>slide 2</vh></v>
-<v t="leo.20200818170636.1"><vh>slide3</vh>
-<v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
-<v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
-<v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
-</v>
-<v t="leo.20200818170725.1"><vh>slide 4</vh></v>
+<v t="leo.20200818170636.1"><vh>slide3</vh></v>
+<v t="leo.20200818170725.1"><vh>slide 4</vh>
+<v t="leo.20210415170155.1"><vh>newHeadline</vh></v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
+<v t="leo.20210415170743.1"><vh>slide7</vh></v>
 <v t="leo.20200818171312.1"><vh>slide 8</vh></v>
 <v t="leo.20200818171344.1"><vh>slide 9</vh></v>
 <v t="leo.20200818171412.1"><vh>slide 10</vh></v>
-<v t="leo.20200818194721.1"><vh>slide 11</vh></v>
-<v t="leo.20200818194751.1"><vh>slide 12</vh></v>
+</v>
+<v t="leo.20200818194721.1"><vh>slide 11</vh>
+<v t="leo.20200818194751.1"><vh>newHeadline</vh></v>
+<v t="leo.20210416094345.1"><vh>newHeadline</vh></v>
+<v t="leo.20210416094814.1"><vh>newHeadline</vh></v>
+</v>
 <v t="leo.20200818194812.1"><vh>slide 13</vh>
 <v t="leo.20200818194908.1"><vh>slide 13-1</vh></v>
 <v t="leo.20200818194933.1"><vh>slide 13-2</vh></v>
+<v t="leo.20210416095613.1"><vh>newHeadline</vh></v>
 </v>
-<v t="leo.20200818194840.1"><vh>slide 14</vh></v>
 <v t="leo.20200818195039.1"><vh>slide 15</vh></v>
+<v t="leo.20200818194840.1"><vh>slide 14</vh></v>
 <v t="leo.20200818195105.1"><vh>slide 16</vh>
 <v t="leo.20200818195213.1"><vh>slide 16-1</vh></v>
 <v t="leo.20200818195237.1"><vh>slide 16-2</vh></v>
@@ -208,187 +211,96 @@ vertical: body pane on the botton</t>
     @others
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-    &lt;a href="https://github.com/40823102/stage2-ag5"&gt;stage2-ag5 repo&lt;/a&gt;      &lt;a href="https://40823102.github.io/stage2-ag5/content/index.html"&gt;stage2-ag5 site&lt;/a&gt;&lt;/p&gt;
+
+&lt;/a&gt;
+    &lt;h3&gt;2021-協同產品設計實習-stage1-ag5&lt;/h3&gt;
+    
+    &lt;p&gt;專題題目:排球扣球練習器&lt;/p&gt;
+        &lt;a href="https://github.com/40823102/stage2-ag5"&gt;repo&lt;/a&gt;
+    &lt;a href="https://40823102.github.io/stage2-ag5/content/index.html"&gt;site&lt;/a&gt;&lt;/p&gt;
         
-    &lt;/a&gt;
-    &lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
-    &lt;p&gt;
-        &lt;a href="https://40823106.github.io/stage2-ag5/content/index.html"&gt;repo site
-                    專題題目:排球扣球練習器
-                    組員: &lt;a href="https://40823102.github.io/cd2021/content/index.html"&gt;40823102劉怡萱&lt;/a&gt;&lt;/p&gt;
-                             &lt;a href="https://40823106.github.io/cd2021/content/index.html"&gt;40823106廖苡雯&lt;/a&gt;&lt;/p&gt;
-                             &lt;a href="https://40823135.github.io/cd2021/content/index.html"&gt;40823135林澤叡&lt;/a&gt;&lt;/p&gt;
-                             &lt;a href="https://40823121.github.io/cd2021/content/index.html"&gt;40823121粘晁偉&lt;/a&gt;&lt;/p&gt;
+                    組員: 
+                    &lt;a href="https://40823102.github.io/cd2021/content/index.html"&gt;40823102劉怡萱&lt;/a&gt;&lt;/p&gt;
+                     &lt;a href="https://40823106.github.io/cd2021/content/index.html"&gt;40823106廖苡雯&lt;/a&gt;&lt;/p&gt;
+                     &lt;a href="https://40823121.github.io/cd2021/content/index.html"&gt;40823121粘晁偉&lt;/a&gt;&lt;/p&gt;
+                     &lt;a href="https://40823135.github.io/cd2021/content/index.html"&gt;40823135林澤叡&lt;/a&gt;&lt;/p&gt;
     &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
-    &lt;h2&gt;Hello There&lt;/h2&gt;
+    &lt;h2&gt;專題方向&lt;/h2&gt;
     &lt;p&gt;
-        reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
+        我們這次的專案，決定以上一次未完成的排球扣球練習器進行改良；原本的主體只有單一的骨架與球軌，我們將改良成雙向作動與作動時間長的機構，讓排球可以順利滑動；並改良夾持的機構，改良成讓球在圓盤滾動一段時間後，球體的中心滑動到圓盤的中心點後自動掉落。
     &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170636.1">&lt;!-- Example of nested vertical slides --&gt;
-&lt;section&gt;
-    @others
+<t tx="leo.20200818170636.1">&lt;section&gt;
+    &lt;h2&gt;每週進度&lt;/h2&gt;
+    &lt;p&gt;
+&lt;p&gt;W5 討論專題方向、每週進度&lt;/p&gt;
+&lt;p&gt;W6 繪製零件圖、在coppeliasim進行模擬並修正錯誤&lt;/p&gt;
+&lt;p&gt;W7 在coppeliasim進行模擬並修正錯誤、Heroku協同&lt;/p&gt;
+&lt;p&gt;W8 修正零件圖並進行coppeliasim模擬並修正、製作上台報告內容&lt;/p&gt;
+&lt;p&gt;W9 上台報告&lt;/p&gt;
+    &lt;/p&gt;
 &lt;/section&gt;
-
 </t>
 <t tx="leo.20200818170725.1">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
-    &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
-    &lt;/p&gt;
+     @others
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170909.1">&lt;section&gt;
-    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
-    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-    &lt;p&gt;Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818170953.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
-    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818171010.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
-    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#/2"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;</t>
 <t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers&gt;
-        import React, { useState } from 'react';
-
-        function Example() {
-          const [count, setCount] = useState(0);
-
-          return (
-            ...
-          );
-        }
-    &lt;/code&gt;&lt;/pre&gt;
-    &lt;p&gt;Code syntax highlighting courtesy of &lt;a href="https://highlightjs.org/usage/"&gt;highlight.js&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;骨架、球軌、接住球的部分&lt;/p&gt;
+    &lt;p&gt;&lt;img caption="false" height="353" src="./../images/底座.jpg" width="450"/&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818171215.1">&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;With animations&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers="|4,8-11|17|22-24"&gt;
-        import React, { useState } from 'react';
+    &lt;p&gt;轉盤及支撐軸，透過轉盤週期作旋轉動作讓球也成週期落下&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img caption="false" height="525" src="./../images/轉盤.jpg" width="450"/&gt;
 
-        function Example() {
-          const [count, setCount] = useState(0);
-
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-
-        function SecondExample() {
-          const [count, setCount] = useState(0);
-
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-    &lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818171244.1">&lt;section&gt;
-    &lt;h2&gt;Point of View&lt;/h2&gt;
-    &lt;p&gt;
-        Press &lt;strong&gt;ESC&lt;/strong&gt; to enter the slide overview.
-    &lt;/p&gt;
-    &lt;p&gt;
-        Hold down the &lt;strong&gt;alt&lt;/strong&gt; key (&lt;strong&gt;ctrl&lt;/strong&gt; in Linux) and click on any element to zoom towards it using &lt;a href="http://lab.hakim.se/zoom-js"&gt;zoom.js&lt;/a&gt;. Click again to zoom back out.
-    &lt;/p&gt;
-    &lt;p&gt;
-        (NOTE: Use ctrl + click in Linux.)
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818171312.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
-    &lt;h2&gt;Auto-Animate&lt;/h2&gt;
-    &lt;p&gt;Automatically animate matching elements across slides with &lt;a href="https://revealjs.com/auto-animate/"&gt;Auto-Animate&lt;/a&gt;.&lt;/p&gt;
-    &lt;div class="r-hstack justify-center"&gt;
-        &lt;div data-id="box1" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box2" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box3" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
+&lt;/p&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20200818171344.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
-    &lt;div class="r-hstack justify-center"&gt;
-        &lt;div data-id="box1" data-auto-animate-delay="0" style="background: cyan; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box2" data-auto-animate-delay="0.1" style="background: magenta; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box3" data-auto-animate-delay="0.2" style="background: yellow; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;h2 style="margin-top: 20px;"&gt;Auto-Animate&lt;/h2&gt;
+<t tx="leo.20200818171244.1">&lt;section data-auto-animate&gt;
+    &lt;p&gt;轉盤週期作旋轉動作&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img caption="false" height="251" src="./../images/轉盤動.gif" width="450"/&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/p&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20200818171412.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
-    &lt;div class="r-stack"&gt;
-        &lt;div data-id="box1" style="background: cyan; width: 300px; height: 300px; border-radius: 200px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box2" style="background: magenta; width: 200px; height: 200px; border-radius: 200px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box3" style="background: yellow; width: 100px; height: 100px; border-radius: 200px;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;h2 style="margin-top: 20px;"&gt;Auto-Animate&lt;/h2&gt;
+<t tx="leo.20200818171312.1">&lt;section data-auto-animate&gt;
+    &lt;p&gt;發球器做動&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img caption="false" height="531" src="./../images/發球器動.gif" width="450"/&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/p&gt;
 &lt;/section&gt;
-
+</t>
+<t tx="leo.20200818171344.1">&lt;section data-auto-animate&gt;
+    &lt;p&gt;整體組合圖&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img caption="false" height="312" src="./../images/第一版.jpg" width="500"/&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200818171412.1">&lt;section data-auto-animate&gt;
+    &lt;p&gt;嘗試使用coppeliasim模擬發球器進行做動&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/fRxebGEGAc0" width="560"&gt;&lt;/iframe&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/p&gt;
+&lt;/section&gt;
 </t>
 <t tx="leo.20200818194721.1">&lt;section&gt;
-    &lt;h2&gt;Touch Optimized&lt;/h2&gt;
+     @others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20200818194751.1">&lt;section&gt;
+    &lt;h2&gt;W7&lt;/h2&gt;
     &lt;p&gt;
-        Presentations look great on touch devices, like mobile phones and tablets. Simply swipe through your slides.
+&lt;p&gt;預定進度:在coppeliasim進行模擬並修正錯誤、進行Heroku協統&lt;/p&gt;
     &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818194751.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-        ## Markdown support
-
-        Write content using inline or external Markdown.
-        Instructions and more info available in the [readme](https://revealjs.com/markdown/).
-
-        ```[]
-        &lt;section data-markdown&gt;
-          ## Markdown support
-
-          Write content using inline or external Markdown.
-          Instructions and more info available in the [readme](https://revealjs.com/markdown/).
-        &lt;/section&gt;
-        ```
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
+&lt;/section&gt;</t>
 <t tx="leo.20200818194812.1">&lt;section&gt;
      @others
 &lt;/section&gt;
@@ -408,32 +320,15 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818194908.1">&lt;section id="fragments"&gt;
-    &lt;h2&gt;Fragments&lt;/h2&gt;
-    &lt;p&gt;Hit the next arrow...&lt;/p&gt;
-    &lt;p class="fragment"&gt;... to step through ...&lt;/p&gt;
-    &lt;p&gt;&lt;span class="fragment"&gt;... a&lt;/span&gt; &lt;span class="fragment"&gt;fragmented&lt;/span&gt; &lt;span class="fragment"&gt;slide.&lt;/span&gt;&lt;/p&gt;
-
-    &lt;aside class="notes"&gt;
-        This slide has fragments which are also stepped through in the notes window.
-    &lt;/aside&gt;
-&lt;/section&gt;
- </t>
-<t tx="leo.20200818194933.1">&lt;section&gt;
-    &lt;h2&gt;Fragment Styles&lt;/h2&gt;
-    &lt;p&gt;There's different types of fragments, like:&lt;/p&gt;
-    &lt;p class="fragment grow"&gt;grow&lt;/p&gt;
-    &lt;p class="fragment shrink"&gt;shrink&lt;/p&gt;
-    &lt;p class="fragment fade-out"&gt;fade-out&lt;/p&gt;
+<t tx="leo.20200818194908.1">&lt;section&gt;
+    &lt;h2&gt;W8&lt;/h2&gt;
     &lt;p&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-right"&gt;fade-right, &lt;/span&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-up"&gt;up, &lt;/span&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-down"&gt;down, &lt;/span&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-left"&gt;left&lt;/span&gt;
+&lt;p&gt;預定進度:修正零件圖、在coppeliasim進行模擬並修正錯誤&lt;/p&gt;
     &lt;/p&gt;
-    &lt;p class="fragment fade-in-then-out"&gt;fade-in-then-out&lt;/p&gt;
-    &lt;p class="fragment fade-in-then-semi-out"&gt;fade-in-then-semi-out&lt;/p&gt;
-    &lt;p&gt;Highlight &lt;span class="fragment highlight-red"&gt;red&lt;/span&gt; &lt;span class="fragment highlight-blue"&gt;blue&lt;/span&gt; &lt;span class="fragment highlight-green"&gt;green&lt;/span&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20200818194933.1">&lt;section data-auto-animate&gt;
+&lt;p&gt;coppeliasim進行模擬後發現轉盤太小會造成球一樣滾動因此將圓盤直徑加大&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="597" src="./../images/轉盤變大.jpg" width="500"/&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818195039.1">&lt;section id="themes"&gt;
     &lt;h2&gt;Themes&lt;/h2&gt;
@@ -653,5 +548,35 @@ console.log( '"customevent" has fired' );
         - &lt;a href="https://github.com/hakimel/reveal.js"&gt;Source code &amp;amp; documentation&lt;/a&gt;
     &lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20210415170155.1">&lt;section&gt;
+    &lt;h2&gt;W6&lt;/h2&gt;
+    &lt;p&gt;
+&lt;p&gt;預定進度:繪製零件圖&lt;/p&gt;
+    &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210415170743.1">&lt;section data-auto-animate&gt;
+    &lt;p&gt;發球器的軸、底座、擊球的轉臂&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img caption="false" height="625" src="./../images/發球零件.jpg" width="450"/&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210416094345.1">&lt;section data-auto-animate&gt;
+&lt;h3&gt;在coppeliasim進行模擬&lt;/h3&gt;
+    &lt;p&gt;模擬後發現圓盤尺寸有誤且在模擬上很難達到圓盤週期與發球器時間一致，除把圓盤直徑加大外也討論如何修正圖。&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/AhB5IT6MZTE" width="560"&gt;&lt;/iframe&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210416094814.1">&lt;section data-auto-animate&gt;
+    &lt;p&gt;進行Heroku協同&lt;/p&gt;
+&lt;a href="https://stage2-ag5.herokuapp.com/content/index.html"&gt;Heroku&lt;/a&gt;
+&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210416095613.1">&lt;section data-auto-animate&gt;
+    &lt;p&gt;模擬後發現須將底座挖圓盤軸的洞，不然組合圖放入coppeliasim時會自動視為一體，會導致無法驅動&lt;/p&gt;
+&lt;p&gt;&lt;code class="py plain"&gt;&lt;img alt="" height="600" src="./../images/底座打洞.jpg" width="500"/&gt;&lt;/code&gt;&lt;/p&gt;
+&lt;/p&gt;
+&lt;/section&gt;
+</t>
 </tnodes>
 </leo_file>
