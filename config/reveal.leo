@@ -40,9 +40,9 @@
 <v t="leo.20200818194908.1"><vh>slide 13-1</vh></v>
 <v t="leo.20200818194933.1"><vh>slide 13-2</vh></v>
 <v t="leo.20210416095613.1"><vh>newHeadline</vh></v>
-</v>
-<v t="leo.20200818195039.1"><vh>slide 15</vh></v>
 <v t="leo.20200818194840.1"><vh>slide 14</vh></v>
+<v t="leo.20200818195039.1"><vh>slide 15</vh></v>
+</v>
 <v t="leo.20200818195105.1"><vh>slide 16</vh>
 <v t="leo.20200818195213.1"><vh>slide 16-1</vh></v>
 <v t="leo.20200818195237.1"><vh>slide 16-2</vh></v>
@@ -306,19 +306,10 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818194840.1">&lt;section id="transitions"&gt;
-    &lt;h2&gt;Transition Styles&lt;/h2&gt;
-    &lt;p&gt;
-        You can select from different transitions, like: &lt;br&gt;
-        &lt;a href="?transition=none#/transitions"&gt;None&lt;/a&gt; -
-        &lt;a href="?transition=fade#/transitions"&gt;Fade&lt;/a&gt; -
-        &lt;a href="?transition=slide#/transitions"&gt;Slide&lt;/a&gt; -
-        &lt;a href="?transition=convex#/transitions"&gt;Convex&lt;/a&gt; -
-        &lt;a href="?transition=concave#/transitions"&gt;Concave&lt;/a&gt; -
-        &lt;a href="?transition=zoom#/transitions"&gt;Zoom&lt;/a&gt;
-    &lt;/p&gt;
+<t tx="leo.20200818194840.1">&lt;section data-auto-animate&gt;
+    &lt;p&gt;在coppeliasim進行模擬&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/Rzcg0QOfQDo" width="560"&gt;&lt;/iframe&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/section&gt;
-
 </t>
 <t tx="leo.20200818194908.1">&lt;section&gt;
     &lt;h2&gt;W8&lt;/h2&gt;
@@ -330,30 +321,19 @@ vertical: body pane on the botton</t>
 &lt;p&gt;coppeliasim進行模擬後發現轉盤太小會造成球一樣滾動因此將圓盤直徑加大&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" height="597" src="./../images/轉盤變大.jpg" width="500"/&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20200818195039.1">&lt;section id="themes"&gt;
-    &lt;h2&gt;Themes&lt;/h2&gt;
-    &lt;p&gt;
-        reveal.js comes with a few themes built in: &lt;br&gt;
-        &lt;!-- Hacks to swap themes after the page has loaded. Not flexible and only intended for the reveal.js demo deck. --&gt;
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/black.css'); return false;"&gt;Black (default)&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/white.css'); return false;"&gt;White&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/league.css'); return false;"&gt;League&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/sky.css'); return false;"&gt;Sky&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/beige.css'); return false;"&gt;Beige&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/simple.css'); return false;"&gt;Simple&lt;/a&gt; &lt;br&gt;
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/serif.css'); return false;"&gt;Serif&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/blood.css'); return false;"&gt;Blood&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/night.css'); return false;"&gt;Night&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/moon.css'); return false;"&gt;Moon&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/solarized.css'); return false;"&gt;Solarized&lt;/a&gt;
-    &lt;/p&gt;
+<t tx="leo.20200818195039.1">&lt;section data-auto-animate&gt;
+    &lt;p&gt;在coppeliasim進行模擬&lt;/p&gt;
+    &lt;p&gt;目前模擬做動還無法讓兩邊的圓盤都呈周期做動，只能兩個發球器旋轉跟一個圓盤轉動，發現軸沒有設定好導致圓盤碰到球軌就會停下無法繼續轉動&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/pCwSe1z1kYg" width="560"&gt;&lt;/iframe&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20200818195105.1">&lt;section&gt;
-    @others
-&lt;/section&gt;
+<t tx="leo.20200818195105.1">&lt;section data-markdown&gt;
+            &lt;script type="text/template"&gt;
+        討論心得
 
-</t>
+        在這次的分組專題中，我們從構想主題到討論如何做動及用軟體模擬做動完整花了不少心力，為了讓產品做動前後修改很多次圖檔讓各零件間有公差或是完全接合，這讓我們認知到團隊分工合作及溝通的重要性，以及一項產品的開發是一件多麼困難的事情
+            &lt;/script&gt;
+        &lt;/section&gt;</t>
 <t tx="leo.20200818195147.1">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
     &lt;h2&gt;Background Transitions&lt;/h2&gt;
     &lt;p&gt;
