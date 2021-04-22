@@ -194,7 +194,7 @@ vertical: body pane on the botton</t>
 &lt;/a&gt;
     &lt;h3&gt;2021-協同產品設計實習-stage2-ag5&lt;/h3&gt;
     
-    &lt;p&gt;專題題目:排球扣球練習器&lt;/p&gt;
+    &lt;p&gt;專題題目:發球練習器&lt;/p&gt;
         &lt;a href="https://github.com/40823102/stage2-ag5"&gt;repo&lt;/a&gt;
     &lt;a href="https://40823102.github.io/stage2-ag5/content/index.html"&gt;site&lt;/a&gt;&lt;/p&gt;
         
